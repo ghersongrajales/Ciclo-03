@@ -1,0 +1,44 @@
+        .color_verde {color:green;}
+        h1{
+            color:#c0c;
+            font-size: 24px;
+        }
+        body {
+            background-color: #eee;
+            font-family: Tahoma;
+            
+        }
+        p {
+            font-size: 18px;
+        }
+        a:link, a:visited, a:hover {
+            color:green;
+            font-size: 16px;
+        }
+        #contenedor {
+            margin:0%;
+            width: 800px;
+        }
+        #cabecera {
+            color: #ff9;
+            background-color: #000;
+            padding: 10px;  
+        }
+        #menu {
+            background-color: #999;
+            float: left;
+            padding: 10px;
+            width: 180px;
+        }
+        #cuerpo {
+            background-color: #ddd;
+            float: left;
+            height: 500px;
+            padding: 10px;
+            width: 580px;
+        }
+        #pie {
+            background-color: #bbb;
+            clear: both;
+            padding: 10px;    
+        }
